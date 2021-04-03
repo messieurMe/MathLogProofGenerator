@@ -1,0 +1,1 @@
+annotation class NewProof(val op: String, val left: String, val right: String, val full: String = "")
